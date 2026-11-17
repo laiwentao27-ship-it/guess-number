@@ -7,3 +7,6 @@
 运行方法：
 
 
+```
+python3 guess.py
+```
